@@ -1,0 +1,89 @@
+.container {
+    padding: 10px;
+}
+.section-one {
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+.section-one__title {
+    padding-bottom: 10px;
+    
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.section-one__desc {
+    vertical-align: top;
+    padding-bottom: 20px;
+    color:grey;
+    font-weight: 100;
+}
+
+
+
+.section-two1{
+    
+    background-color: white;
+    color: black;
+   
+}
+.section-two2{
+    
+    background-color: white;
+    color: black;
+   
+}
+.section-two3,.section-two1,.section-two2,.section-two4{
+  display: inline-block;
+  border: solid black 2px;
+}
+.section-two3{
+    
+    background-color: white;
+    color: black;
+
+}
+.section-two4{
+    
+    background-color: white;
+    color: black;
+   
+
+}
+.section-two{
+    text-align: center;
+}
+.section-two1__img,.section-two2__img,.section-two3__img,.section-two4__img{
+    width: 220px;
+}
+.section-two1 button,.section-two2 button,.section-two3 button,.section-two4 button {
+    background-color: black;
+    color: white;
+}
+
+.section-four{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+
+
+.section-four table{
+    display: inline-block;
+}
+.section-four__button{
+    display: inline-block;
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    width: 500px;
+}
+.section-four h2{
+    padding-top: 20px;
+}
